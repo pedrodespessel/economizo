@@ -7,7 +7,9 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 
 export default function addGanho(){
     return(
-        Alert.alert('Olá, Mundo!')
+        <View>
+            <Text>teste</Text>
+        </View>
 
 
 
